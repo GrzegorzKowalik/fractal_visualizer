@@ -12,8 +12,8 @@ Numberphile video linked above explains it better than I could
 
 You can visualize some cool fractals with it. Click a few times to create vertices, then hit "Start" button to generate a fractal basing on your input. Examples:
 
-![sierpinski triangle](sierpinski.png)
+![sierpinski triangle](sierpinski.PNG)
 
-![rectangle](rectangle.png)
+![rectangle](rectangle.PNG)
 
-![deltoid](deltoid.png)
+![deltoid](deltoid.PNG)
